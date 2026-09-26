@@ -499,8 +499,8 @@
 			}
 		},
 		CartoDB: {
-			url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/{variant}/{z}/{x}/{y}.png',
-      url2: 'http://{s}.basemaps.cartocdn.com/{variant}/{z}/{x}/{y}.png',
+			url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/{variant}/{z}/{x}/{y}.png?key=cb1_2lgt_1_9e472fb45845ca23e883e1aa',
+      url2: 'http://{s}.basemaps.cartocdn.com/{variant}/{z}/{x}/{y}.png?key=cb1_2lgt_1_9e472fb45845ca23e883e1aa',
 			options: {
 				attribution: '{attribution.OpenStreetMap} &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
 				subdomains: 'abcd',
